@@ -102,7 +102,7 @@ img{
   width:100%;
 }
 .title h2{
-  font-size:2.5em;
+  font-size:1.5em;
   color:#fff;
   font-weight:700;
 }
@@ -263,7 +263,8 @@ SMALL DEVICES SMARTPHONES */
       text-align: left;
     }
     .title h2{
-      font-size:3em; 
+      font-size:2em; 
+      max-width: 95%;
     }
     .title h3{
       font-size:2em;
